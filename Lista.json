@@ -1,0 +1,86 @@
+{ "listaSupermercado": [
+    {
+        "supermercado1": "Mercadona", 
+        "dirección": "C/ Valencia, 3", 
+        "geolocalización": "\"N39°28'10,9\" O°22'34,8"
+    },
+    {
+        "producto": "manzana",
+        "unidades": 10,
+        "unidadesMedida": "kg",
+        "precio_Euros": 3.00,
+        "oferta": true,
+        "periodoInicioOferta": "20-10-2022", 
+        "periodoFinalizaciónOferta": "21-11-2022",  
+        "precioConOferta_Euros": 2.15,
+        "adquisiciónProducto": false
+    },
+    {
+        "producto": "huevos",
+        "unidades": 12,
+        "unidadesMedida": "unidad",
+        "precio_Euros": 5.00,
+        "oferta": false,
+        "periodoInicioOferta": null, 
+        "periodoFinalizaciónOferta": null,  
+        "precioConOferta_Euros": null,
+        "adquisiciónProducto": true
+    },
+
+    {
+        "supermercado2": "Carrefour", 
+        "dirección": "C/ Valencia, 15", 
+        "geolocalización": "\"N39°28'20\" O°30'40"
+    },
+    {
+        "producto": "manzana",
+        "unidades": 8,
+        "unidadesMedida": "kg",
+        "precio_Euros": 2.50,
+        "oferta": false,
+        "periodoInicioOferta": null, 
+        "periodoFinalizaciónOferta": null,  
+        "precioConOferta_Euros": null,
+        "adquisiciónProducto": false
+    },
+    {
+        "producto": "huevos",
+        "unidades": 12,
+        "unidadesMedida": "unidad",
+        "precio_Euros": 5.50,
+        "oferta": true,
+        "periodoInicioOferta": "01-12-2022", 
+        "periodoFinalizaciónOferta": "15-12-2022",  
+        "precioConOferta_Euros": 4.50,
+        "adquisiciónProducto": true
+    },
+
+    {
+        "supermercado3": "MasYMas", 
+        "dirección": "C/ Valencia, 51", 
+        "geolocalización": "\"N39°40'25\" O°30'40"
+    },
+    {
+        "producto": "manzana",
+        "unidades": 15,
+        "unidadesMedida": "kg",
+        "precio_Euros": 2.00,
+        "oferta": false,
+        "periodoInicioOferta": null, 
+        "periodoFinalizaciónOferta": null,  
+        "precioConOferta_Euros": null,
+        "adquisiciónProducto": false
+    },
+    {
+        "producto": "huevos",
+        "unidades": 12,
+        "unidadesMedida": "unidad",
+        "precio_Euros": 6.00,
+        "oferta": false,
+        "periodoInicioOferta": null, 
+        "periodoFinalizaciónOferta": null,  
+        "precioConOferta_Euros": null,
+        "adquisiciónProducto": true
+    }    
+]
+}

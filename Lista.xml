@@ -1,0 +1,72 @@
+<listaSupermercado>
+
+<supermercado1>Mercadona</supermercado1>
+<dirección>C/ Valencia, 3</dirección>
+<geolocalización>N39°28'10,9" O°22'34,8</geolocalización>
+    <producto>manzana</producto>
+    <unidades>10</unidades>
+    <unidadesMedida>kg</unidadesMedida>
+    <precio_Euros>3.00</precio_Euros>
+    <oferta>true</oferta>
+    <periodoInicioOferta>20-10-2022</periodoInicioOferta>
+    <periodoFinalizaciónOferta>21-11-2022</periodoFinalizaciónOferta>
+    <precioConOferta_Euros>2.15</precioConOferta_Euros>
+    <adquisiciónProducto>false</adquisiciónProducto>
+
+    <producto>huevos</producto>
+    <unidades>12</unidades>
+    <unidadesMedida>unidad</unidadesMedida>
+    <precio_Euros>5.00</precio_Euros>
+    <oferta>false</oferta>
+    <periodoInicioOferta></periodoInicioOferta>
+    <periodoFinalizaciónOferta></periodoFinalizaciónOferta>
+    <precioConOferta_Euros></precioConOferta_Euros>
+    <adquisiciónProducto>true</adquisiciónProducto>
+
+<supermercado2>Carrefour</supermercado2>
+<dirección>C/ Valencia, 15</dirección>
+<geolocalización>N39°28'20" O°30'40</geolocalización>
+    <producto>manzana</producto>
+    <unidades>8</unidades>
+    <unidadesMedida>kg</unidadesMedida>
+    <precio_Euros>2.50</precio_Euros>
+    <oferta>false</oferta>
+    <periodoInicioOferta></periodoInicioOferta>
+    <periodoFinalizaciónOferta></periodoFinalizaciónOferta>
+    <precioConOferta_Euros></precioConOferta_Euros>
+    <adquisiciónProducto>false</adquisiciónProducto>
+
+    <producto>huevos</producto>
+    <unidades>12</unidades>
+    <unidadesMedida>unidad</unidadesMedida>
+    <precio_Euros>5.50</precio_Euros>
+    <oferta>true</oferta>
+    <periodoInicioOferta>01-12-2022</periodoInicioOferta>
+    <periodoFinalizaciónOferta>15-12-2022</periodoFinalizaciónOferta>
+    <precioConOferta_Euros>4.50</precioConOferta_Euros>
+    <adquisiciónProducto>true</adquisiciónProducto>
+
+<supermercado3>MasYMas</supermercado3>
+<dirección>C/ Valencia, 51</dirección>
+<geolocalización>N39°40'25" O°30'40"</geolocalización>
+    <producto>manzana</producto>
+    <unidades>15</unidades>
+    <unidadesMedida>kg</unidadesMedida>
+    <precio_Euros>2.00</precio_Euros>
+    <oferta>false</oferta>
+    <periodoInicioOferta></periodoInicioOferta>
+    <periodoFinalizaciónOferta></periodoFinalizaciónOferta>
+    <precioConOferta_Euros></precioConOferta_Euros>
+    <adquisiciónProducto>false</adquisiciónProducto>
+
+    <producto>huevos</producto>
+    <unidades>12</unidades>
+    <unidadesMedida>unidad</unidadesMedida>
+    <precio_Euros>6.00</precio_Euros>
+    <oferta>false</oferta>
+    <periodoInicioOferta></periodoInicioOferta>
+    <periodoFinalizaciónOferta></periodoFinalizaciónOferta>
+    <precioConOferta_Euros></precioConOferta_Euros>
+    <adquisiciónProducto>true</adquisiciónProducto>
+
+</listaSupermercado>
